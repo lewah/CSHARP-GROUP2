@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\While Loop\\Loop\\Loop.csproj": {}
+    "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\Learning Phase 2\\While Loop\\Loop\\Loop.csproj": {}
   },
   "projects": {
-    "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\While Loop\\Loop\\Loop.csproj": {
+    "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\Learning Phase 2\\While Loop\\Loop\\Loop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\While Loop\\Loop\\Loop.csproj",
+        "projectUniqueName": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\Learning Phase 2\\While Loop\\Loop\\Loop.csproj",
         "projectName": "Loop",
-        "projectPath": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\While Loop\\Loop\\Loop.csproj",
+        "projectPath": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\Learning Phase 2\\While Loop\\Loop\\Loop.csproj",
         "packagesPath": "C:\\Users\\INGRID\\.nuget\\packages\\",
-        "outputPath": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\While Loop\\Loop\\obj\\",
+        "outputPath": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\Learning Phase 2\\While Loop\\Loop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INGRID\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

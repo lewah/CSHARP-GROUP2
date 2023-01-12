@@ -1,0 +1,15 @@
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\bin\Debug\net6.0\Working with while loop.exe
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\bin\Debug\net6.0\Working with while loop.deps.json
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\bin\Debug\net6.0\Working with while loop.runtimeconfig.json
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\bin\Debug\net6.0\Working with while loop.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\bin\Debug\net6.0\Working with while loop.pdb
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\Working with while loop.csproj.AssemblyReference.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\Working with while loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\Working with while loop.AssemblyInfoInputs.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\Working with while loop.AssemblyInfo.cs
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\Working with while loop.csproj.CoreCompileInputs.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\Working with while loop.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\refint\Working with while loop.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\Working with while loop.pdb
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\Working with while loop.genruntimeconfig.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\working with while loop\Working with while loop\obj\Debug\net6.0\ref\Working with while loop.dll

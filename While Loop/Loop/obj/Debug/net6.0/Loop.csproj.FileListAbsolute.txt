@@ -1,0 +1,15 @@
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\bin\Debug\net6.0\Loop.exe
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\bin\Debug\net6.0\Loop.deps.json
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\bin\Debug\net6.0\Loop.runtimeconfig.json
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\bin\Debug\net6.0\Loop.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\bin\Debug\net6.0\Loop.pdb
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\Loop.csproj.AssemblyReference.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\Loop.AssemblyInfoInputs.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\Loop.AssemblyInfo.cs
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\Loop.csproj.CoreCompileInputs.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\Loop.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\refint\Loop.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\Loop.pdb
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\Loop.genruntimeconfig.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\While Loop\Loop\obj\Debug\net6.0\ref\Loop.dll

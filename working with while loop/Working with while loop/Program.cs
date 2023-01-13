@@ -62,6 +62,7 @@ namespace WhileIteration
             int result = int.Parse(Console.ReadLine());
             int counter = 1;
 
+            //while loop
             while (counter < result + 1)
             {
                 Console.Write(counter);
@@ -84,6 +85,8 @@ namespace WhileIteration
 
             int guesses = 0;
             bool incorrect = true;
+
+            // Do while loop
             do
             {
                 Console.WriteLine("Guess a Number between 1 and 10: ");

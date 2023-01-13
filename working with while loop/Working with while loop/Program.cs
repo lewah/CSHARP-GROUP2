@@ -71,7 +71,7 @@ namespace WhileIteration
             Console.ReadLine();
 
         }
-        private static void GuessingGame(int min, int max)
+        private static void GuessingGame()
         {
             // Console.Clear(); clears window 
             Console.Clear();
@@ -84,14 +84,27 @@ namespace WhileIteration
 
             int guesses = 0;
             bool incorrect = true;
-            do 
+            do
             {
+                Console.WriteLine("Guess a Number between 1 and 10: ");
+                string resultRandom = Console.ReadLine();
+                guesses ++;
+
+                if (resultRandom == random.ToString())
+                {
+                    incorrect = false;
+                }
+                else
+                {
+                    Console.WriteLine("wrong");
+                }
 
             }
-            while (true)
+            while (incorrect);
             {
-
+                Console.WriteLine("correct! it took you {0} guesses", guesses);
             }
+            
 
             Console.ReadLine();
         }

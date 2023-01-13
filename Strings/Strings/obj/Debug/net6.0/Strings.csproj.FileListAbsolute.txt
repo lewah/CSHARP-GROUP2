@@ -1,0 +1,15 @@
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\bin\Debug\net6.0\Strings.exe
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\bin\Debug\net6.0\Strings.deps.json
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\bin\Debug\net6.0\Strings.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\bin\Debug\net6.0\Strings.pdb
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\Strings.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\refint\Strings.dll
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\Strings.pdb
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+E:\Development\Csharp and dotNet\FROM GITHUB - lewah\G2\Learning Phase 2\Strings\Strings\obj\Debug\net6.0\ref\Strings.dll

@@ -29,9 +29,17 @@ namespace WorkingWithStrings
             //string myString = String.Format("{0:C}", 123.45);
             //string myString = String.Format("{0:N}", 1234567890);
             //string myString = String.Format("Percentage : {0:P}", .199);
-            string myString = String.Format("Phone Number : {0.(###) ###-####}", 254767676767);
+            //string myString = String.Format("Phone Number : {0.(###) ###-####}", 254767676767);
 
-            //
+            //----- substring helper method
+            string myString = " Every action you take is a vote for the person you wish to become. ";
+            myString = myString.Trim();
+            myString = myString.Substring(7);
+            myString = myString.Substring(7, 13);
+            myString = myString.ToUpper();
+
+
+
             Console.WriteLine(myString);
             Console.ReadLine();
         }

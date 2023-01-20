@@ -32,17 +32,17 @@ namespace WorkingWithStrings
             //string myString = String.Format("Phone Number : {0.(###) ###-####}", 254767676767);
 
             //----- substring helper method
+            /*
             string myString = " Every action you take is a vote for the person you wish to become. ";
-            /*myString = myString.Trim();
+            myString = myString.Trim();
             myString = myString.Substring(7);
             myString = myString.Substring(7, 13);
             myString = myString.ToUpper();
             myString = myString.Replace(" ", " --");
             myString = myString.Remove(4,10);
-            */
             myString = String.Format("length before : {0} -- Length after {1}", 
-                myString.Length , myString.Trim().Length);
-
+             myString.Length , myString.Trim().Length);
+             */
             Console.WriteLine(myString);
             Console.ReadLine();
         }

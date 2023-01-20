@@ -45,10 +45,12 @@ namespace WhileIteration
             }
             else if (result == "3")
             {
+                //here we completely exit 
                 return false;
             }
             else
             {
+                // here we go back to the menu if the dont pick the options documented 
                 return true;
             }
         }

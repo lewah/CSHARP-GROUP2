@@ -14,7 +14,7 @@ namespace WhileIteration
         {
             bool displayMenu = true;
 
-            // while to check condition 
+            // while to check condition and to return back to the main menu after clicking enter key
             // while (displayMenu == true)
             while (displayMenu)
             {

@@ -43,6 +43,13 @@ namespace WorkingWithStrings
             myString = String.Format("length before : {0} -- Length after {1}", 
              myString.Length , myString.Trim().Length);
              */
+
+            string myString = "";
+            for (int i = 0; i < 100; i++)
+            {
+                myString += "--" + i.ToString();
+            }
+
             Console.WriteLine(myString);
             Console.ReadLine();
         }

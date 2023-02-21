@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Strings",
+    "\\Strings\\Strings"
   ],
-  "SelectedNode": "\\E:\\C# and SQL(material)\\101",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Strings\\Strings\\Program.cs",
+  "PreviewInSolutionExplorer": true
 }

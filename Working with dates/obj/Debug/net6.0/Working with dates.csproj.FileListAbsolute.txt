@@ -1,0 +1,15 @@
+E:\C# and SQL(material)\101\Working with dates\bin\Debug\net6.0\Working with dates.exe
+E:\C# and SQL(material)\101\Working with dates\bin\Debug\net6.0\Working with dates.deps.json
+E:\C# and SQL(material)\101\Working with dates\bin\Debug\net6.0\Working with dates.runtimeconfig.json
+E:\C# and SQL(material)\101\Working with dates\bin\Debug\net6.0\Working with dates.dll
+E:\C# and SQL(material)\101\Working with dates\bin\Debug\net6.0\Working with dates.pdb
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\Working with dates.csproj.AssemblyReference.cache
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\Working with dates.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\Working with dates.AssemblyInfoInputs.cache
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\Working with dates.AssemblyInfo.cs
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\Working with dates.csproj.CoreCompileInputs.cache
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\Working with dates.dll
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\refint\Working with dates.dll
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\Working with dates.pdb
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\Working with dates.genruntimeconfig.cache
+E:\C# and SQL(material)\101\Working with dates\obj\Debug\net6.0\ref\Working with dates.dll

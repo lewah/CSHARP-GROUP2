@@ -25,6 +25,7 @@ namespace WorkingWithStrings
             //string myString = @"Go to your c:\ drive";
 
             //----- Replacement code  and currency(C) and large number(N) and percentage(P) and Phone Number(###) 
+            // https://learn.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings
             //string myString = String.Format("{0} = {1}", "First", "second");
             //string myString = String.Format("{0:C}", 123.45);
             //string myString = String.Format("{0:N}", 1234567890);
@@ -32,6 +33,7 @@ namespace WorkingWithStrings
             //string myString = String.Format("Phone Number : {0.(###) ###-####}", 254767676767);
 
             //----- substring helper method
+            https://learn.microsoft.com/en-us/dotnet/standard/base-types/divide-up-strings
             /*
             string myString = " Every action you take is a vote for the person you wish to become. ";
             myString = myString.Trim();

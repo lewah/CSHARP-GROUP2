@@ -61,6 +61,7 @@ namespace WhileIteration
 
             Console.WriteLine("Print Number:");
             Console.WriteLine("Type Number : ");
+            //Parse - convert to 32 bit
             int result = int.Parse(Console.ReadLine());
             int counter = 1;
 
@@ -88,7 +89,7 @@ namespace WhileIteration
             int guesses = 0;
             bool incorrect = true;
 
-            // Do while loop
+            // Do while loop - repeat the loop as long as the condition is true
             do
             {
                 Console.WriteLine("Guess a Number between 1 and 10: ");
@@ -105,6 +106,7 @@ namespace WhileIteration
                 }
 
             }
+            //while incorrect = TRUE exit
             while (incorrect);
             {
                 Console.WriteLine("correct! it took you {0} guesses", guesses);

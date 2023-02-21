@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\Learning Phase 2\\Strings\\Strings\\Strings.csproj",
+      "projectUniqueName": "E:\\C# and SQL(material)\\101\\Strings\\Strings\\Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\Learning Phase 2\\Strings\\Strings\\Strings.csproj",
+      "projectPath": "E:\\C# and SQL(material)\\101\\Strings\\Strings\\Strings.csproj",
       "packagesPath": "C:\\Users\\INGRID\\.nuget\\packages\\",
-      "outputPath": "E:\\Development\\Csharp and dotNet\\FROM GITHUB - lewah\\G2\\Learning Phase 2\\Strings\\Strings\\obj\\",
+      "outputPath": "E:\\C# and SQL(material)\\101\\Strings\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\INGRID\\AppData\\Roaming\\NuGet\\NuGet.Config",

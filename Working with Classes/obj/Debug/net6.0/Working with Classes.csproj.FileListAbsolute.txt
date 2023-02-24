@@ -1,0 +1,15 @@
+E:\C# and SQL(material)\101\Working with Classes\bin\Debug\net6.0\Working with Classes.exe
+E:\C# and SQL(material)\101\Working with Classes\bin\Debug\net6.0\Working with Classes.deps.json
+E:\C# and SQL(material)\101\Working with Classes\bin\Debug\net6.0\Working with Classes.runtimeconfig.json
+E:\C# and SQL(material)\101\Working with Classes\bin\Debug\net6.0\Working with Classes.dll
+E:\C# and SQL(material)\101\Working with Classes\bin\Debug\net6.0\Working with Classes.pdb
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\Working with Classes.csproj.AssemblyReference.cache
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\Working with Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\Working with Classes.AssemblyInfoInputs.cache
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\Working with Classes.AssemblyInfo.cs
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\Working with Classes.csproj.CoreCompileInputs.cache
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\Working with Classes.dll
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\refint\Working with Classes.dll
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\Working with Classes.pdb
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\Working with Classes.genruntimeconfig.cache
+E:\C# and SQL(material)\101\Working with Classes\obj\Debug\net6.0\ref\Working with Classes.dll
